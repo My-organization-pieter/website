@@ -1,0 +1,11 @@
+##demo tekstfile
+sdjkf
+adf
+*asdf
+
+asdf
+asd
+asdf
+
+* piterasdf
+
