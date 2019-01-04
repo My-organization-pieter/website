@@ -1,7 +1,7 @@
-##demo tekstfile
+#demo tekstfile
 sdjkf
 adf
-*asdf
+* asdf
 
 asdf
 asd
